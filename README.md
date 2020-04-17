@@ -13,7 +13,7 @@ The project was targeted at analyzing DVD rental data for Sakila, a DVD rental c
 4. Further fine tune types of movies purchased: Investigate possible factors affecting movie rental cost.
 
 ### Files used
-* .gitignore file contains the dvd rental data files
+* The .gitignore file contains the dvd rental data files
 * The .sql files show the code for analyzing each of the four categories listed under Description
 * The PDF file shows the findings of the study and some visualization of the results of the study.
 
