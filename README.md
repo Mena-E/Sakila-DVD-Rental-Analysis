@@ -16,6 +16,8 @@ The project was targeted at analyzing DVD rental data for Sakila, a DVD rental c
 * The .gitignore file contains the dvd rental data files
 * The .sql files show the code for analyzing each of the four categories listed under Description
 * The PDF file shows the findings of the study and some visualization of the results of the study.
+* DVD_rental_ER_Diagram is a PDF file showing the ERD for the project
 
 ### credits
-Data provided by udacity.com
+Data and project info from https://www.postgresqltutorial.com
+Project curated by http://www.udacity.com
