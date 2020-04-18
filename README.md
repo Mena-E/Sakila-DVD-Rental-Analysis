@@ -19,5 +19,5 @@ The project was targeted at analyzing DVD rental data for Sakila, a DVD rental c
 * DVD_rental_ER_Diagram is a PDF file showing the ERD for the project
 
 ### credits
-Data and project info from https://www.postgresqltutorial.com
-Project curated by http://www.udacity.com
+* Data and project info from https://www.postgresqltutorial.com
+* Project curated by http://www.udacity.com
